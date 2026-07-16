@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Privacy Policy - SmartQR</title>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    max-width: 720px;
-    margin: 40px auto;
-    padding: 0 20px;
-    line-height: 1.6;
-    color: #1a1a1a;
-  }
-  h1 { font-size: 28px; margin-bottom: 4px; }
-  .updated { color: #666; font-size: 14px; margin-bottom: 32px; }
-  h2 { font-size: 18px; margin-top: 32px; border-bottom: 1px solid #eee; padding-bottom: 6px; }
-  a { color: #1a73e8; }
-  footer { margin-top: 48px; font-size: 13px; color: #777; }
-</style>
-</head>
-<body>
-
-<h1>Privacy Policy for SmartQR</h1>
-<p class="updated">Last updated: July 16, 2026</p>
 
 <p>SmartQR ("the app") is developed by Seven Venture Labs. This policy explains what data the app accesses and how it's handled.</p>
 
