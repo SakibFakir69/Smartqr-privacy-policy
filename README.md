@@ -1,0 +1,1 @@
+# Smartqr-privacy-policy
